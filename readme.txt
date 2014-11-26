@@ -1,2 +1,2 @@
 distributed   helloword!
-git tracks changes.
+git tracks changes of files.
